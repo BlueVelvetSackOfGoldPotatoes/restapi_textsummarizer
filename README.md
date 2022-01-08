@@ -1,2 +1,2 @@
 # restapi_textsummarizer
-Flask app that produces text summarization
+Flask app that produces summaries of texts
